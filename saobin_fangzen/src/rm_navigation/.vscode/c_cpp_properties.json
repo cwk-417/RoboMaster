@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ye/pb_rmsimulation/install/ros2_livox_simulation/include/**",
+        "/home/ye/pb_rmsimulation/install/pointcloud_to_laserscan/include/**",
+        "/home/ye/pb_rmsimulation/install/linefit_ground_segmentation/include/**",
+        "/home/ye/pb_rmsimulation/install/icp_localization_ros2/include/**",
+        "/home/ye/pb_rmsimulation/install/fast_lio/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/ye/pb_rmsimulation/src/rm_localization/FAST_LIO/include/**",
+        "/home/ye/pb_rmsimulation/src/rm_localization/icp_localization_ros2/include/**",
+        "/home/ye/pb_rmsimulation/src/rm_perception/linefit_ground_segementation_ros2/linefit_ground_segmentation/include/**",
+        "/home/ye/pb_rmsimulation/src/rm_perception/pointcloud_to_laserscan/include/**",
+        "/home/ye/pb_rmsimulation/src/rm_simulation/livox_laser_simulation_RO2/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
